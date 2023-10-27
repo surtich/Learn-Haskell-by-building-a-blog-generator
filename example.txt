@@ -27,3 +27,4 @@ GHC will produce an executable when the source file satisfies both conditions:
 # Defines the module name to be Main, or does not have a module declaration
 
 Otherwise, it will only produce the .o and .hi files.
+
